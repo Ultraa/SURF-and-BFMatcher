@@ -30,37 +30,23 @@ int main(int argc, char** argv)
 	SurfFeatureDetector detector(1000);
 
 	// Класс для FREAK особенностей. Можно настраивать режимы сравнения особенностей:
-	// FREAK extractor(true, true, 22, 4, std::vector<int>());
-	FREAK extractor;
+	//FREAK extractor(true, true, 22, 4, std::vector<int>());
+	//FREAK extractor; // Плохо ищет особенности, из-за этого выделение объекта неровно.
+	BriefDescriptorExtractor extractor; // Отлично ищет особенности на примере железнодорожного знака.
+	//SurfDescriptorExtractor extractor; // Не работает почему-то (вероятно нужно менять код в проекте)
 
 	// Используется для определение совпадений особенностей - мера Хемминга
 	BruteForceMatcher<Hamming> matcher;
+	//FlannBasedMatcher matcher; - не работает
 
 	// Детектирование
-	double t = (double)getTickCount();
-
 	detector.detect(ImageTemple, keypointsImageTemple);
 	detector.detect(Image, keypointsImage);
-
-	t = ((double)getTickCount() - t) / getTickFrequency();
-	std::cout << "detection time [s]: " << t / 1.0 << std::endl;
-
-	// Извлечение особенностей
-	t = (double)getTickCount();
 
 	extractor.compute(ImageTemple, keypointsImageTemple, descriptorsImageTemple);
 	extractor.compute(Image, keypointsImage, descriptorsImage);
 
-	t = ((double)getTickCount() - t) / getTickFrequency();
-	std::cout << "extraction time [s]: " << t << std::endl;
-
-	// Сравнение
-	t = (double)getTickCount();
-
 	matcher.match(descriptorsImageTemple, descriptorsImage, matches);
-
-	t = ((double)getTickCount() - t) / getTickFrequency();
-	std::cout << "matching time [s]: " << t << std::endl;
 
 	// Отобразить на изображении
 	Mat imgMatch;
