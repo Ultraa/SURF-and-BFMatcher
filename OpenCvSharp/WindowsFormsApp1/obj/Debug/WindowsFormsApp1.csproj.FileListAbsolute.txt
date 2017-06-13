@@ -1,0 +1,50 @@
+c:\users\серый\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+c:\users\серый\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+c:\users\серый\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+c:\users\серый\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+c:\users\серый\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+c:\users\серый\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\OpenCvSharp.Blob.dll
+c:\users\серый\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\OpenCvSharp.dll
+c:\users\серый\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\OpenCvSharp.Extensions.dll
+c:\users\серый\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\OpenCvSharp.UserInterface.dll
+c:\users\серый\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\OpenCvSharp.xml
+c:\users\серый\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\OpenCvSharp.Blob.xml
+c:\users\серый\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\OpenCvSharp.Extensions.xml
+c:\users\серый\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+c:\users\серый\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+c:\users\серый\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+c:\users\серый\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+c:\users\серый\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+c:\users\серый\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+c:\users\серый\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\dll\x86\opencv_ffmpeg320.dll
+c:\users\серый\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\dll\x64\opencv_ffmpeg320_64.dll
+c:\users\серый\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\OpenCvSharp.pdb
+c:\users\серый\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\OpenCvSharp.Blob.pdb
+c:\users\серый\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\OpenCvSharp.Extensions.pdb
+c:\users\серый\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\OpenCvSharp.UserInterface.pdb
+c:\users\серый\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\Серый\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\Серый\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Серый\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Серый\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\Серый\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Серый\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Серый\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\Серый\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\dll\x86\opencv_ffmpeg320.dll
+C:\Users\Серый\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\Серый\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\dll\x64\opencv_ffmpeg320_64.dll
+C:\Users\Серый\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Серый\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Серый\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Серый\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\Серый\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\OpenCvSharp.dll
+C:\Users\Серый\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\Серый\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\Серый\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\OpenCvSharp.pdb
+C:\Users\Серый\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\OpenCvSharp.xml
+C:\Users\Серый\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\Серый\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\Серый\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\Серый\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\Серый\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\Серый\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\OpenCvSharp.UserInterface.xml
