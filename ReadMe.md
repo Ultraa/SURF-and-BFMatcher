@@ -33,11 +33,11 @@
 
 ### Примеры работы:
 
-![](img/Example1.png?raw=true)
+![](img/Example1.PNG?raw=true)
 
-![](img/Example2.png?raw=true)
+![](img/Example2.PNG?raw=true)
 
-![](img/Example3.png?raw=true)
+![](img/Example3.PNG?raw=true)
 
 ### Особенности:
 
